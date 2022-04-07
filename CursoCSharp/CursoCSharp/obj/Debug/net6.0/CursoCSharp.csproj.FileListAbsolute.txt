@@ -1,0 +1,15 @@
+C:\Users\colac\My-Documents\Git\c-sharp\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.exe
+C:\Users\colac\My-Documents\Git\c-sharp\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.deps.json
+C:\Users\colac\My-Documents\Git\c-sharp\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.runtimeconfig.json
+C:\Users\colac\My-Documents\Git\c-sharp\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.dll
+C:\Users\colac\My-Documents\Git\c-sharp\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.pdb
+C:\Users\colac\My-Documents\Git\c-sharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\colac\My-Documents\Git\c-sharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colac\My-Documents\Git\c-sharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\colac\My-Documents\Git\c-sharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfo.cs
+C:\Users\colac\My-Documents\Git\c-sharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\colac\My-Documents\Git\c-sharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.dll
+C:\Users\colac\My-Documents\Git\c-sharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\refint\CursoCSharp.dll
+C:\Users\colac\My-Documents\Git\c-sharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.pdb
+C:\Users\colac\My-Documents\Git\c-sharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.genruntimeconfig.cache
+C:\Users\colac\My-Documents\Git\c-sharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\ref\CursoCSharp.dll
