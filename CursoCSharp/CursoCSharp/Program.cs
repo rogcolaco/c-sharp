@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 using CursoCSharp.Fundamentos;
 using CursoCSharp.EstruturasDeControle;
+using CursoCSharp.ClassesEMetodos;
 
 namespace CursoCSharp {
     class Program {
@@ -19,6 +20,12 @@ namespace CursoCSharp {
 
                 // Estruturas de Controle
                 {"Estrutura While - Estruturas de Controle", EstruturaWhile.Executar},
+
+                //Classes e Métodos
+                {"Membros - Classes e Métodos", Membros.Executar},
+                {"Metodos Estaticos - Classes e Métodos", MetodosEstaticos.Executar},
+                {"Getters e Setters - Classes e Métodos", GetSet.Executar},
+                {"Props - Classes e Métodos", Props.Executar},
             });
 
             central.SelecionarEExecutar();

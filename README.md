@@ -52,3 +52,10 @@ Pacote utilizado para revisitar e testar conceitos e fundamentos básicos da lin
 > 
 > Classe EstruturaWhile consiste em um joguinho simples de adivinhação de números aleatóriosorteado, apenas para sintetizar os conceitos vistos até o momento no estudo e no curso.
 
+## Classes e Métodos
+
+**Tópicos Abordados**
+
+* Métodos Estáticos
+* Getters e Setters
+* Props
