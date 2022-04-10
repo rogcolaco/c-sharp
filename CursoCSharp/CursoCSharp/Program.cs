@@ -26,6 +26,7 @@ namespace CursoCSharp {
                 {"Metodos Estaticos - Classes e Métodos", MetodosEstaticos.Executar},
                 {"Getters e Setters - Classes e Métodos", GetSet.Executar},
                 {"Props - Classes e Métodos", Props.Executar},
+                {"Parametros por Referência (ref e out) - Classes e Métodos", ParametrosPorReferencia.Executar},
             });
 
             central.SelecionarEExecutar();
