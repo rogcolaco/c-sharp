@@ -40,9 +40,11 @@ namespace CursoCSharp {
 
                 //OO
                 {"Herança - OO", Heranca.Executar},
-                {"Construtor 'This'", ConstrutorThis.Executar},
-                {"Encapsulamento", OO.Encapsulamento.Executar},
-
+                {"Construtor 'This' - OO", ConstrutorThis.Executar},
+                {"Encapsulamento - OO", OO.Encapsulamento.Executar},
+                {"Polimorfismo - OO", Polimorfismo.Executar},
+                {"Classes Abstratas - OO", Abstract.Executar},
+                {"Interfaces - OO", Interfaces.Executar},
 
             });
 
