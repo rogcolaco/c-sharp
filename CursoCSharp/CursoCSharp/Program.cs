@@ -6,6 +6,9 @@ using CursoCSharp.EstruturasDeControle;
 using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.Colecoes;
 using CursoCSharp.OO;
+using CursoCSharp.MetodosEFuncoes;
+using CursoCSharp.Excecoes;
+using CursoCSharp.Api;
 
 namespace CursoCSharp {
     class Program {
@@ -46,6 +49,22 @@ namespace CursoCSharp {
                 {"Classes Abstratas - OO", Abstract.Executar},
                 {"Interfaces - OO", Interfaces.Executar},
 
+                //Métodos e Funções (Lambda)
+                {"Exemplo Lambda - Métodos e Funções", ExemploLambda.Executar},
+                {"Delegate com Lambda - Métodos e Funções", LambdasDelegate.Executar},
+                {"Usando Delegates - Métodos e Funções", UsandoDelegate.Executar},
+                {"Usando Delegates com Func. Anonimas - Métodos e Funções", DelegadeFunAnonima.Executar},
+                {"Delegates como Parametros - Métodos e Funções", DelegatesComoParametros.Executar},
+
+                //Tratamento de Exceções
+                {"Primeira Exceção - Exceções", PrimeiraExcecao.Executar},
+                {"Exceções Personalizadas - Exceções", ExcecoesPersonalizadas.Executar},
+
+                //Trabalhando com Arquivos e API
+                {"Primeiro Arquivo - API", PrimeiroArquivo.Executar},
+                {"Lendo Arquivos - API", LendoArquivos.Executar},
+                {"Exemplo FileInfo - API", ExemploFileInfo.Executar},
+                {"Diretorios - API", Diretorios.Executar},
             });
 
             central.SelecionarEExecutar();
