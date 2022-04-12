@@ -13,3 +13,6 @@ C:\Users\colac\My-Documents\Git\c-sharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0
 C:\Users\colac\My-Documents\Git\c-sharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.pdb
 C:\Users\colac\My-Documents\Git\c-sharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.genruntimeconfig.cache
 C:\Users\colac\My-Documents\Git\c-sharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\ref\CursoCSharp.dll
+C:\Users\colac\My-Documents\Git\c-sharp\CursoCSharp\CursoCSharp\bin\Debug\net6.0\Encapsulamento.dll
+C:\Users\colac\My-Documents\Git\c-sharp\CursoCSharp\CursoCSharp\bin\Debug\net6.0\Encapsulamento.pdb
+C:\Users\colac\My-Documents\Git\c-sharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.CopyComplete
