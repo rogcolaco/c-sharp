@@ -2,60 +2,31 @@
 
 Esse repositório será utilizado para concentrar e organizar o processo de aprendizagem na linguagem C# utilizando o framework .NET.
 
-## Pacote Fundamentos
+[Link para o curso no site da Udemy](https://www.udemy.com/share/101qHe3@GtKq3P9ncm1UWh4qIhc4M4KwZA9VoUnttoJDxwwaEoiwJzELKkCV1cmH4UVaHuCI/)
 
-Pacote utilizado para revisitar e testar conceitos e fundamentos básicos da linguagem.
+[Link para a cópia do certificado de conclusão](https://drive.google.com/file/d/1ppgKvBCvrEJJ_tImcEdL9BEWHWCsE5Zp/view?usp=sharing)
 
-* Primeiro Progama
 
-    * Aquele Clássico Hello World
+## Módulos do curso
 
-* Comentários
+ * Fundamentos
 
-    * Apenas uma classe utilizada para debater uso de comentários em códigos de programação em geral
-
-* Interpolacao
-
-    * Interpolação de _strings_ e variáveis
-
-* Lendo Dados
-
-    * Input de Dados no Console
-
-* Formatando Números
-
-    * Conversão de números para _string_ e formatação dessas _strings_ em diversas variações: _currency_, casas decimais, idiomas (separação de casas decimais), etc.
-
-> ### **Alguns tópicos abordados que ficaram de fora do repositório**
->
-> Alguns tópicos ficaram de fora do arquivo enviado para o git por se tratarem de temas comuns as mais diversas linguagens de programação:
-> * Utilização da notação ponto;
-> * Inferência de tipos;
-> * Operadores aritméticos;
-> * Operadores Lógicos;
-> * Operadores de atribuição;
-> * Operadores unários;
-> * Operador ternário;
-
-## Estruturas de Controle e Repetição
-
-* _if_
-* _if/else_
-* _if/else if_
-* _switch_
-* _while_
-* _do while_
-* _for_
-* _foreach_
+ * Estruturas de Controle e Repetição
 
 > **Estrutura While**
 > 
 > Classe EstruturaWhile consiste em um joguinho simples de adivinhação de números aleatóriosorteado, apenas para sintetizar os conceitos vistos até o momento no estudo e no curso.
 
-## Classes e Métodos
+ * Classes e Métodos
 
-**Tópicos Abordados**
+ * Coleções
 
-* Métodos Estáticos
-* Getters e Setters
-* Props
+ * Orientação a Objeto (OO)
+
+ * Métodos e Funções
+
+ * Exceções
+
+ * Explorando a API
+
+ * Tópicos Avançados
